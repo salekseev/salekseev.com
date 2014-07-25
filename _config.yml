@@ -1,24 +1,21 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Lanyon
-tagline:          'A Jekyll theme'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://lanyon.getpoole.com
+title:            ~salekseev
+tagline:          'Random musings of a Systems Engineer'
+description:      'Made by <a href="https://twitter.com/stas_alekseev" target="_blank">@stas_alekseev</a>.'
+url:              http://salekseev.com
 baseurl:          '/'
 paginate:         5
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Stas Alekseev'
+  url:            https://twitter.com/stas_alekseev
 
 # Custom vars
-version:          1.0.0
-
-github:
-  repo:           https://github.com/poole/lanyon
+github:           https://github.com/salekseev
